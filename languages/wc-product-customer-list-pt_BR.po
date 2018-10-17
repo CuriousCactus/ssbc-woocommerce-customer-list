@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Customer List for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-23 13:39-0400\n"
+"PO-Revision-Date: 2016-09-23 13:39-0400\n"
+"Last-Translator: mruoppolo <contato@anpei.com.br>\n"
+"Language-Team: Kokomo <thierry@kokomoweb.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wc-product-customer-list.php\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wc-product-customer-list.php:61
+msgid "Customers"
+msgstr "Consumidores"
+
+#: wc-product-customer-list.php:75
+msgid "Product Customer List"
+msgstr "Lista dos Consumidores do Produto"
+
+#. Plugin Name of the plugin/theme
+#: wc-product-customer-list.php:83
+msgid "Product Customer List for WooCommerce"
+msgstr "Lista de Consumidores do Produto para WooCommerce"
+
+#: wc-product-customer-list.php:83
+msgid ""
+"The following options are used to configure Product Customer List for "
+"WooCommerce"
+msgstr ""
+"As seguintes opções são utilizadas para configurar o Lista de Consumidores "
+"do Produto para WooCommerce"
+
+#: wc-product-customer-list.php:85
+msgid "Order status"
+msgstr "Status do Pedido"
+
+#: wc-product-customer-list.php:86
+msgid ""
+"Select one or multiple order statuses for which you will display the "
+"customers."
+msgstr ""
+"Selecione um ou mais status de pedidos para os quais você deseja mostrar os "
+"consumidores."
+
+#: wc-product-customer-list.php:92
+msgid "Pending"
+msgstr ""
+
+#: wc-product-customer-list.php:93
+msgid "Processing"
+msgstr "Processando"
+
+#: wc-product-customer-list.php:94
+msgid "On Hold"
+msgstr ""
+
+#: wc-product-customer-list.php:95
+msgid "Completed"
+msgstr "Completo"
+
+#: wc-product-customer-list.php:96
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: wc-product-customer-list.php:97
+msgid "Refunded"
+msgstr ""
+
+#: wc-product-customer-list.php:98
+msgid "Failed"
+msgstr ""
+
+#: wc-product-customer-list.php:103
+msgid "Order number column"
+msgstr "Coluna de número do pedido"
+
+#: wc-product-customer-list.php:108
+msgid "Enable order number column"
+msgstr "Habilitar coluna de número do pedido"
+
+#: wc-product-customer-list.php:111
+msgid "Order date column"
+msgstr ""
+
+#: wc-product-customer-list.php:116
+msgid "Enable order date column"
+msgstr ""
+
+#: wc-product-customer-list.php:119
+msgid "Order status column"
+msgstr "Coluna de status do pedido"
+
+#: wc-product-customer-list.php:124
+msgid "Enable order status column"
+msgstr "Habilitar coluna de status do pedido"
+
+#: wc-product-customer-list.php:127
+msgid "Order quantity column"
+msgstr "Coluna de quantidade do pedido"
+
+#: wc-product-customer-list.php:132
+msgid "Enable order quantity column"
+msgstr "Habilitar coluna de quantidade do pedido"
+
+#: wc-product-customer-list.php:135
+msgid "Customer message column"
+msgstr "Coluna de mensagem do consumidor"
+
+#: wc-product-customer-list.php:140
+msgid "Enable customer message column"
+msgstr "Habilitar coluna de mensagem do consumidor"
+
+#: wc-product-customer-list.php:143
+msgid "Billing first name column"
+msgstr "Coluna de nome para faturamento"
+
+#: wc-product-customer-list.php:148
+msgid "Enable billing first name column"
+msgstr "Habilitar coluna de nome para faturamento"
+
+#: wc-product-customer-list.php:151
+msgid "Billing last name column"
+msgstr "Coluna de sobrenome para faturamento"
+
+#: wc-product-customer-list.php:156
+msgid "Enable billing last name column"
+msgstr "Habilitar coluna de sobrenome para faturamento"
+
+#: wc-product-customer-list.php:159
+msgid "Billing e-mail column"
+msgstr "Coluna de e-mail para faturamento"
+
+#: wc-product-customer-list.php:164
+msgid "Enable billing e-mail column"
+msgstr "Habilitar coluna de e-mail para faturamento"
+
+#: wc-product-customer-list.php:167
+msgid "Billing phone column"
+msgstr "Coluna de telefone para faturamento"
+
+#: wc-product-customer-list.php:172
+msgid "Enable billing phone column"
+msgstr "Habilitar coluna de telefone para faturamento"
+
+#: wc-product-customer-list.php:175
+msgid "Billing address 1 column"
+msgstr "Coluna de endereço 1"
+
+#: wc-product-customer-list.php:180
+msgid "Enable billing address 1 column"
+msgstr "Habilitar coluna de endereço 1"
+
+#: wc-product-customer-list.php:183
+msgid "Billing address 2 column"
+msgstr "Coluna de endereço 2"
+
+#: wc-product-customer-list.php:188
+msgid "Enable billing address 2 column"
+msgstr "Habilitar coluna de endereço 2"
+
+#: wc-product-customer-list.php:191
+msgid "Billing state column"
+msgstr "Coluna de estado para faturamento"
+
+#: wc-product-customer-list.php:196
+msgid "Enable billing state column"
+msgstr "Habilitar coluna de estado para faturamento"
+
+#: wc-product-customer-list.php:199
+msgid "Billing Postal Code / Zip column"
+msgstr "Coluna de CEP para faturamento"
+
+#: wc-product-customer-list.php:204
+msgid "Enable billing postal code / Zip column"
+msgstr "Habilitar coluna de CEP para faturamento"
+
+#: wc-product-customer-list.php:207
+msgid "Billing country column"
+msgstr "Coluna de país para faturamento"
+
+#: wc-product-customer-list.php:212
+msgid "Enable billing country column"
+msgstr "Habilitar coluna de país para faturamento"
+
+#: wc-product-customer-list.php:215
+msgid "Shipping first name column"
+msgstr "Coluna de nome para entrega"
+
+#: wc-product-customer-list.php:220
+msgid "Enable shipping first name column"
+msgstr "Habilitar coluna de nome para entrega"
+
+#: wc-product-customer-list.php:223
+msgid "Shipping last name column"
+msgstr "Coluna de sobrenome para entrega"
+
+#: wc-product-customer-list.php:228
+msgid "Enable shipping last name column"
+msgstr "Habilitar coluna de sobrenome para entrega"
+
+#: wc-product-customer-list.php:231
+msgid "Shipping address 1 column"
+msgstr "Coluna de endereço de entrega 1"
+
+#: wc-product-customer-list.php:236
+msgid "Enable shipping address 1 column"
+msgstr "Habilitar coluna de endereço de entrega 1"
+
+#: wc-product-customer-list.php:239
+msgid "Shipping address 2 column"
+msgstr "Coluna de endereço de entrega 2"
+
+#: wc-product-customer-list.php:244
+msgid "Enable shipping address 2 column"
+msgstr "Habilitar coluna de endereço de entrega 2"
+
+#: wc-product-customer-list.php:247
+msgid "Shipping state column"
+msgstr "Coluna de estado de entrega"
+
+#: wc-product-customer-list.php:252
+msgid "Enable shipping state column"
+msgstr "Habilitar coluna de estado de entrega"
+
+#: wc-product-customer-list.php:255
+msgid "Shipping Postal Code / Zip column"
+msgstr "Coluna de CEP de entrega"
+
+#: wc-product-customer-list.php:260
+msgid "Enable shipping postal code / Zip column"
+msgstr "Habilitar coluna de CEP de entrega"
+
+#: wc-product-customer-list.php:263
+msgid "Shipping country column"
+msgstr "Coluna país de entrega"
+
+#: wc-product-customer-list.php:268
+msgid "Enable shipping country column"
+msgstr "Habilitar coluna de país de entrega"
+
+#: wc-product-customer-list.php:296
+msgid "Customers who bought this product"
+msgstr "Consumidores que compraram este produto"
+
+#: wc-product-customer-list.php:344
+msgid "Copy"
+msgstr ""
+
+#: wc-product-customer-list.php:345
+msgid "Print"
+msgstr "Imprimir"
+
+#: wc-product-customer-list.php:346
+msgid "Search"
+msgstr "Buscar"
+
+#: wc-product-customer-list.php:347 wc-product-customer-list.php:637
+msgid "This product currently has no customers"
+msgstr "Este produto ainda não foi comprado"
+
+#: wc-product-customer-list.php:348
+msgid "No orders match your search"
+msgstr "Nenhum pedido corresponde a sua busca"
+
+#: wc-product-customer-list.php:349
+msgid "Showing _START_ to _END_ out of _TOTAL_ orders"
+msgstr "Mostrando _START_ a _END_ de _TOTAL_ pedidos"
+
+#: wc-product-customer-list.php:350
+msgid "Show _MENU_ orders"
+msgstr "Mostrar _MENU_ pedidos"
+
+#: wc-product-customer-list.php:351
+msgid "Copy to clipboard"
+msgstr ""
+
+#: wc-product-customer-list.php:352
+#, php-format
+msgid "Copied %d rows"
+msgstr ""
+
+#: wc-product-customer-list.php:353
+msgid "Copied 1 row"
+msgstr ""
+
+#: wc-product-customer-list.php:354
+msgid "First"
+msgstr "Primeiro"
+
+#: wc-product-customer-list.php:355
+msgid "Previous"
+msgstr "Anterior"
+
+#: wc-product-customer-list.php:356
+msgid "Next"
+msgstr "Próximo"
+
+#: wc-product-customer-list.php:357
+msgid "Last"
+msgstr "Último"
+
+#: wc-product-customer-list.php:374
+msgid "Order"
+msgstr "Pedido"
+
+#: wc-product-customer-list.php:375
+msgid "Date"
+msgstr ""
+
+#: wc-product-customer-list.php:376
+msgid "Billing First name"
+msgstr "Nome do Comprador"
+
+#: wc-product-customer-list.php:377
+msgid "Billing Last name"
+msgstr "Sobrenome do Comprador"
+
+#: wc-product-customer-list.php:378
+msgid "Billing E-mail"
+msgstr "E-Mail do Comprador"
+
+#: wc-product-customer-list.php:379
+msgid "Billing Phone"
+msgstr "Telefone do Comprador"
+
+#: wc-product-customer-list.php:380
+msgid "Billing Address 1"
+msgstr "Endereço do Comprador 1"
+
+#: wc-product-customer-list.php:381
+msgid "Billing Address 2"
+msgstr "Endereço do Comprador 2"
+
+#: wc-product-customer-list.php:382
+msgid "Billing City"
+msgstr "Cidade do Comprador"
+
+#: wc-product-customer-list.php:383
+msgid "Billing State"
+msgstr "Estado do Comprador"
+
+#: wc-product-customer-list.php:384
+msgid "Billing Postal Code / Zip"
+msgstr "CEP do Comprador"
+
+#: wc-product-customer-list.php:385
+msgid "Billing Country"
+msgstr "País do Comprador"
+
+#: wc-product-customer-list.php:386
+msgid "Shipping First name"
+msgstr "Nome do Recipiente"
+
+#: wc-product-customer-list.php:387
+msgid "Shipping Last name"
+msgstr "Sobrenome do Recipiente"
+
+#: wc-product-customer-list.php:388
+msgid "Shipping Address 1"
+msgstr "Endereço 1 do Recipiente"
+
+#: wc-product-customer-list.php:389
+msgid "Shipping Address 2"
+msgstr "Endereço 2 do Recipiente"
+
+#: wc-product-customer-list.php:390
+msgid "Shipping City"
+msgstr "Cidade do Recipiente"
+
+#: wc-product-customer-list.php:391
+msgid "Shipping State"
+msgstr "Estado do Recipiente"
+
+#: wc-product-customer-list.php:392
+msgid "Shipping Postal Code / Zip"
+msgstr "CEP do Recipiente"
+
+#: wc-product-customer-list.php:393
+msgid "Shipping Country"
+msgstr "País do Recipiente"
+
+#: wc-product-customer-list.php:394
+msgid "Customer Message"
+msgstr "Mensagem do Comprador"
+
+#: wc-product-customer-list.php:395
+msgid "Order Status"
+msgstr "Status do Pedido"
+
+#: wc-product-customer-list.php:396
+msgid "Variation"
+msgstr ""
+
+#: wc-product-customer-list.php:397
+msgid "Qty"
+msgstr "Qtd"
+
+#: wc-product-customer-list.php:605
+msgid "Variation no longer exists"
+msgstr ""
+
+#: wc-product-customer-list.php:631
+msgid "Total"
+msgstr "Total"
+
+#: wc-product-customer-list.php:634
+msgid "Email all customers"
+msgstr "Enviar e-mails a todos os compradores"
+
+#: wc-product-customer-list.php:652
+msgid ""
+"Woocommerce Product Customer List is enabled but not effective. It requires "
+"WooCommerce 2.2+ in order to work."
+msgstr ""
+"Lista de Consumidores de Produtos para WooCommerce esta ativado mas não "
+"funciona. É necessário WooCommerce 2.2 ou mais recente para funcionar."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wc-product-customer-list/"
+msgstr "https://wordpress.org/plugins/wc-product-customer-list/"
+
+#. Description of the plugin/theme
+msgid "Displays a list of customers that bought a product on the edit page."
+msgstr "Mostra uma lista dos compradores de um produto na página de edição."
+
+#. Author of the plugin/theme
+msgid "Kokomo"
+msgstr "Kokomo"
+
+#. Author URI of the plugin/theme
+msgid "http://www.kokomoweb.com/"
+msgstr "http://www.kokomoweb.com/"
+
+#~ msgid "Export to CSV"
+#~ msgstr "Exportar para CSV"
