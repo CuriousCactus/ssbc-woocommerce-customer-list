@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name:     SSBC - WooCommerce - Customer List
- * Plugin URI: 		https://github.com/curiouscactus/wc-product-customer-list and https://github.com/kokomomtl/wc-product-customer-list
- * Description: 	Displays a list of customers that bought a product on the edit page. Creates tables of who has bought the product, which can be inserted using [customer_list product=(defaults to page you're on) admin=(defaults to false) summary=(defaults to false)]. Caluculates a sales total count, which can be insterted using [total_sales]
+ * Plugin URI: 		https://github.com/curiouscactus/woocommerce-customer-list and https://github.com/kokomomtl/wc-product-customer-list
+ * Description: 	Displays a list of customers that bought a product on the edit page. Creates tables of who has bought the product, which can be inserted using [customer_list product=(defaults to page you're on) admin=(defaults to false) summary=(defaults to false)]. Calculates a sales count, which can be insterted using [total_sales].
  * Author: 			Lois Overvoorde (adapted from wc-product-customer-list by Kokomo)
  * Author URI: 		https://github.com/curiouscactus and http://www.kokomoweb.com/
- * Text Domain: 	ssbc-wc-product-customer-list
+ * Text Domain: 	ssbc-woocommerce-customer-list
  * Version: 		1.0.0
  */
 
