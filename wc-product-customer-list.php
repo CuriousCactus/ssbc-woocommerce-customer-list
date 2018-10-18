@@ -6,6 +6,7 @@
 /*
 Plugin Name: SSBC - Product Customer List for WooCommerce
 Plugin URI: 
+Description: Displays a list of customers that bought a product on the edit page. Creates tables of who has bought the product, which can be inserted using [customer_list product=(defaults to page you're on) admin=(defaults to false) summary=(defaults to false)]. Caluculates a sales total count, which can be included using [total_sales]
 Version: 1.0.0
 Author: Lois Overvoorde (modified from Kokomo)
 Author URI: modified from http://www.kokomoweb.com/
